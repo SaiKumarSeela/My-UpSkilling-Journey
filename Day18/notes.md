@@ -54,6 +54,6 @@ To evaluate an LLM using MLflow, follow these steps:
 5. **Analyze Results**: Review the aggregated results and per-row evaluation metrics to gain insights into model performance.
 
 
-To build Multi AI Agents Chatbots With External Tools With LangGraph: [View Code Here](https://github.com/SaiKumarSeela/Explored-GenAI/tree/main/LLMEvaluation)
+Evaluate LLM with mlflow: [View Code Here](https://github.com/SaiKumarSeela/Explored-GenAI/tree/main/LLMEvaluation)
 
 For more information: [Watch this Video](https://www.youtube.com/watch?v=VCwk0Xk1oR0&t=286s)
